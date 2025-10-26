@@ -1,0 +1,86 @@
+{
+  "startIntents": [
+    {
+      "action": "android.intent.action.MAIN",
+      "launchActivity": "com.example.saveplus_plus.MainActivity"
+    }
+  ],
+  "roboDirectives": [
+    {
+      "inputText": "shangchi@gmail.com",
+      "resourceName": "Enter your email"
+    },
+    {
+      "inputText": "123456",
+      "resourceName": "Enter your password"
+    },
+    {
+      "click": {
+        "text": "Log In"
+      }
+    },
+    {
+      "click": {
+        "description": "Add Transaction"
+      }
+    },
+    {
+      "inputText": "10",
+      "resourceName": "RM0.00"
+    },
+    {
+      "click": {
+        "text": "Expense"
+      }
+    },
+    {
+      "click": {
+        "text": "Save Transaction"
+      }
+    },
+    {
+      "click": {
+        "description": "Add Transaction"
+      }
+    },
+    {
+      "inputText": "100",
+      "resourceName": "RM0.00"
+    },
+    {
+      "click": {
+        "text": "Income"
+      }
+    },
+    {
+      "click": {
+        "text": "Save Transaction"
+      }
+    },
+    {
+      "click": {
+        "text": "Settings"
+      }
+    },
+    {
+      "toggle": {
+        "text": "Dark mode"
+      }
+    },
+    {
+      "click": {
+        "description": "Reports"
+      }
+    },
+    {
+      "click": {
+        "text": "Sign out"
+      }
+    },
+    {
+      "click": {
+        "text": "Sign Out"
+      }
+    }
+  ]
+}

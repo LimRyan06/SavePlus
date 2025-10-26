@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "374152583687",
+    "project_id": "saveplus-plus",
+    "storage_bucket": "saveplus-plus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374152583687:android:506a1d6a878962ed2468a2",
+        "android_client_info": {
+          "package_name": "com.example.saveplus_plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByzLkt4U8FLpIGxbNAvstreOwLKE0dVXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374152583687:android:11fe2fd9138cd56e2468a2",
+        "android_client_info": {
+          "package_name": "com.example.saveplus_plusv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByzLkt4U8FLpIGxbNAvstreOwLKE0dVXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
